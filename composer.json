@@ -1,15 +1,15 @@
 {
-  "name": "jecksolovyev/brandbank-soap-api-client",
+  "name": "riccardopiras87/brandbank-soap-api-client",
   "description": "Client to work with Brandbank SOAP API",
   "keywords": ["Brandbank", "SOAP", "API"],
-  "homepage": "https://github.com/jecksolovyev/brandbank-soap-api-client",
+  "homepage": "https://github.com/riccardopiras87/brandbank-soap-api-client",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
       "name": "Evgeniy Solovyev",
       "email": "jeck.solovyev@gmail.com",
-      "homepage": "https://github.com/jecksolovyev"
+      "homepage": "https://github.com/riccardopiras87"
     }
   ],
   "scripts": {
