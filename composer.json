@@ -16,9 +16,9 @@
     "tests": "./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/"
   },
   "require": {
-    "php": "^7.1",
+    "php": "^8.2",
     "monolog/monolog": "^1.24",
-    "artisaninweb/laravel-soap": "0.3.0.9",
+    "artisaninweb/laravel-soap": "^0.3.0.9",
     "ext-soap": "*",
     "ext-json": "*",
     "ext-simplexml": "*",
